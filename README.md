@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Neerajsainii
-- 👀 I’m interested in App Devlopment
+- 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Native Apps
 - 📫 How to reach me ig@nycto._philia._
