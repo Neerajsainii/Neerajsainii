@@ -61,7 +61,7 @@ Explore more on my [GitHub Repos »](https://github.com/Neerajsainii?tab=reposit
 - 📧 Email: [sainineeraj123789@gmail.com](mailto:sainineeraj123789@gmail.com)
 - 📱 Phone: +91 6375909873
 - 🌐 Portfolio: [neerajsaini.netlify.app](https://neerajsaini.netlify.app/)
-- 📸 Instagram: [@nycto._philia._](https://www.instagram.com/nycto._philia_/)
+- 📸 Instagram: [@nycto._philia._](https://www.instagram.com/nycto._philia._/)
 
 ---
 
