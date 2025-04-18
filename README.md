@@ -58,10 +58,10 @@ Explore more on my [GitHub Repos »](https://github.com/Neerajsainii?tab=reposit
 
 ## 📫 Connect With Me
 
-- 📧 Email: [sainineeraj0852@gmail.com](mailto:sainineeraj0852@gmail.com)
-- 📱 Phone: +91 9509524828
+- 📧 Email: [sainineeraj123789@gmail.com](mailto:sainineeraj123789@gmail.com)
+- 📱 Phone: +91 6375909873
 - 🌐 Portfolio: [neerajsaini.netlify.app](https://neerajsaini.netlify.app/)
-- 📸 Instagram: [@nycto.philia](https://www.instagram.com/nycto.philia/)
+- 📸 Instagram: [@nycto._philia._](https://www.instagram.com/nycto._philia_/)
 
 ---
 
