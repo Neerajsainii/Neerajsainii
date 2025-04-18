@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Neeraj Kumar Saini
 
-🎓 B.Tech CSE Student at IIIT Kalyani (2023–2026)  
+🎓 B.Tech CSE Student at IIIT Kalyani (2022–2026)  
 💻 Backend Developer | Web & App Enthusiast  
 🧠 Currently exploring Machine Learning  
 🌐 Portfolio: [neerajsaini.netlify.app](https://neerajsaini.netlify.app/)
